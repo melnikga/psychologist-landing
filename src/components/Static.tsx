@@ -3,7 +3,7 @@ export default function Static() {
     <>
 		<div className="flex justify-center items-center gap-24">
 			<div>
-				<div className="text-5xl font-bold text-[#FFED4D]">
+				<div className="text-5xl font-bold text-[#FDF393]">
 					20 лет
 				</div>
 				<div className="mt-10 text-2xl">
@@ -11,7 +11,7 @@ export default function Static() {
 				</div>
 			</div>
 			<div>
-				<div className="text-5xl font-bold text-[#FFED4D]">
+				<div className="text-5xl font-bold text-[#FDF393]">
 					23 года
 				</div>
 				<div className="mt-10 text-2xl">
@@ -19,7 +19,7 @@ export default function Static() {
 				</div>
 			</div>
 			<div>
-				<div className="text-5xl font-bold text-[#FFED4D]">
+				<div className="text-5xl font-bold text-[#FDF393]">
 					120+
 				</div>
 				<div className="mt-10 text-2xl">
@@ -27,7 +27,7 @@ export default function Static() {
 				</div>
 			</div>
 			<div>
-				<div className="text-5xl font-bold text-[#FFED4D]">
+				<div className="text-5xl font-bold text-[#FDF393]">
 					15 лет
 				</div>
 				<div className="mt-10 text-2xl">
